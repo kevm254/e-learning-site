@@ -1,0 +1,33 @@
+.ng-card-container {
+  border: 2px solid blue;
+  width: 300px;
+  min-height: 400px;
+}
+
+.ng-card-image {
+  // colors and styling
+  background-color: lightgray;
+
+  // margin and padding
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+
+  // height and width
+  height: 250px;
+  width: 250px;
+}
+
+.ng-card-title {
+  width: 250px;
+  margin: auto;
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+
+.ng-card-body {
+  text-align: center;
+  width: 250px;
+  margin: auto;
+}

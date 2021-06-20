@@ -7,16 +7,21 @@
 
 }
 
-.navbar {
+.navbar-content-container {
   list-style: none;
   width: 100%;
+  margin: auto;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   margin-right: 10px;
 }
 
-.navbar-brand {
+.navbar-brand-container {
+  display: flex;
+  min-width: 150px;
+  justify-content: center;
+  align-items: center;
   color: lightgray;
 }
 

@@ -69,7 +69,7 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "E-Learning-Website:build:production"
+              "browserTarget": "E-Learning-Website:build:development"
             }
           }
         },
