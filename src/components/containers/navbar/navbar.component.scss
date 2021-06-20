@@ -1,0 +1,27 @@
+.navbar-container {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  min-height: 40px;
+
+}
+
+.navbar {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.navbar-brand {
+  color: lightgray;
+}
+
+.nav-item {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
